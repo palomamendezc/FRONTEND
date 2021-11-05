@@ -1,0 +1,11 @@
+h1,h2{
+    color: black;
+    background-color: gray;
+    letter-spacing: 0.5em;
+}
+h2{
+    font-size: 18px;
+}
+h1{ 
+    text-align: center;
+}
