@@ -1,0 +1,26 @@
+h1{
+    background-color:#00669F;
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+.fondo{
+    background-color: #1CD1B0;
+}
+.fondo2{
+    background-color:#00669F;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-size: normal;
+    font-weight: normal;
+}
+.texto{
+    text-align: left;
+}
+.imagenes{
+    border-radius: 100px 100px 100px;
+}
