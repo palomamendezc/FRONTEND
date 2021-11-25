@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}.p{
+    background: black;
+    padding: 9px;
+    font-size: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.juegos{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fondo{
+    background-color: #F0A83E;
+    font-style: ;
+    text-align: ;
+}
+
+
